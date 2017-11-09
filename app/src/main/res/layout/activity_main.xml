@@ -46,7 +46,28 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="onButtonClick"
-            android:text="Animar" />
+            android:text="A 1" />
+        <Button
+            android:id="@+id/btnRu2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onButtonClick1"
+            android:text="A 2" />
+        <Button
+            android:id="@+id/btnRun3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onButtonClick2"
+            android:text="A 3" />
+        <Button
+            android:id="@+id/btnRun4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onButtonClick3"
+            android:text="A 4" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
